@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/alex/新加卷/TUST/Learn/面向对象程序设计/main.cpp
+iostream
+-
+iomanip
+-
+cstring
+-
+cstdlib
+-
+fstream
+-
+curses.h
+-
+

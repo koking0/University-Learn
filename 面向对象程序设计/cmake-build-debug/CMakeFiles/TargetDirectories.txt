@@ -1,0 +1,3 @@
+/media/alex/新加卷/TUST/Learn/面向对象程序设计/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/alex/新加卷/TUST/Learn/面向对象程序设计/cmake-build-debug/CMakeFiles/Object_oriented_programming.dir
+/media/alex/新加卷/TUST/Learn/面向对象程序设计/cmake-build-debug/CMakeFiles/edit_cache.dir

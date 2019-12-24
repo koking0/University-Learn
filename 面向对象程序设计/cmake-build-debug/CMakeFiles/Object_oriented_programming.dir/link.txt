@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Object_oriented_programming.dir/main.cpp.o  -o Object_oriented_programming 
