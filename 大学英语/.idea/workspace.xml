@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179bbffc-d370-4c81-ad9e-655ff1db1a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../离散数学/希腊字母.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../离散数学/离散数学——教材/第二篇 集合论/第三章 集合与关系/3-1 集合的概念和表示法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../离散数学/离散数学——教材/第二篇 集合论/第三章 集合与关系/3-10 等价关系和等价类.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../离散数学/离散数学——教材/第二篇 集合论/第三章 集合与关系/3-6 关系的性质.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../离散数学/离散数学——教材/第二篇 集合论/第三章 集合与关系/3-7 复合关系和逆关系.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../离散数学/离散数学——教材/第二篇 集合论/第三章 集合与关系/3-8 关系的闭包运算.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../大学物理/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../大学物理/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
