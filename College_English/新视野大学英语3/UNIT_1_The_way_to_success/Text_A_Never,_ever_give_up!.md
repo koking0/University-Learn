@@ -72,7 +72,7 @@ In the end, both Einstein and Edison overcame their childhood persecution and we
 Consider also the heroic example of Abraham Lincoln, who faced substantial hardships, failures and repeated misfortunes in his lifetime. 
 再如亚伯拉罕·林肯这个英雄的典范，他一生面临了无数艰辛、失败和接二连三的不幸。
 
-His background was certainly not glamorous.  
+His background was certainly not glamorous.
 他的出身和经历真是一点也算不上光鲜。
 
 He was raised in a very poor family with only one year of formal education.
